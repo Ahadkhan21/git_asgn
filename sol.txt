@@ -178,15 +178,15 @@ $ git branch
 * master
   test
 
-/**user@DESKTOP-OA752CI MINGW64 ~/Desktop/git_task (master)
+/**user@DESKTOP-KSD0DGH MINGW64 ~/Desktop/git_task (master)
 $ git merge Dev test
 Fast-forwarding to: Dev
 Trying simple merge with test
 Merge made by the 'octopus' strategy.
  file1.txt | 4 +++-
- file2.txt | 1 +
- file3.txt | 3 ++-
- 3 files changed, 6 insertions(+), 2 deletions(-)**/
+ file2.txt | 1 +++-
+ file3.txt | 2 +++-
+ 3 files changed, 9 insertions(+), 3 deletions(-)**/
 
 user@DESKTOP-KSD0DGH MINGW64 ~/Desktop/git_asgn (master)
 $ git status
